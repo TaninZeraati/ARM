@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\term 7\Archi Lab\1\try\Registers
+vEXE_MEMReg
+!i10b 1
+!s100 V8UXcD4[NWjHf@=:G`HS83
+I<cN7eG8:6zQe6=S>1VPa63
+Vln2h@b3CD34H7K@gIGSg=1
+Z1 dD:\term 7\Archi Lab\1\try\Registers
+w1635740850
+8D:/term 7/Archi Lab/1/try/Registers/EXE_MEMReg.v
+FD:/term 7/Archi Lab/1/try/Registers/EXE_MEMReg.v
+L0 3
+Z2 OL;L;10.1c;51
+r1
+!s85 0
+31
+!s108 1635740854.200000
+!s107 D:/term 7/Archi Lab/1/try/Registers/EXE_MEMReg.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/term 7/Archi Lab/1/try/Registers/EXE_MEMReg.v|
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@e@x@e_@m@e@m@reg
+vID_EXEReg
+Z4 !s100 g;j5b2?>P[V9QK`b_;D900
+Z5 IVeB_95MA:Z13?mFAd?S;61
+Z6 VR<`>4z2`O57:9LH3ECG;91
+R1
+Z7 w1635740795
+Z8 8D:/term 7/Archi Lab/1/try/Registers/ID_EXEReg.v
+Z9 FD:/term 7/Archi Lab/1/try/Registers/ID_EXEReg.v
+L0 3
+R2
+r1
+31
+Z10 !s90 -reportprogress|300|-work|work|-vopt|D:/term 7/Archi Lab/1/try/Registers/ID_EXEReg.v|
+R3
+Z11 n@i@d_@e@x@e@reg
+!i10b 1
+!s85 0
+Z12 !s108 1635740854.132000
+Z13 !s107 D:/term 7/Archi Lab/1/try/Registers/ID_EXEReg.v|
+vIF_IDReg
+Z14 !s100 GmaZK5FjCfPdmJ5Gbznb>2
+Z15 IR5J_MiShH@;[o]XXL_o5<0
+Z16 V60Ml7Sme?>[9@We;Wj5G^3
+R1
+Z17 w1635740677
+Z18 8D:/term 7/Archi Lab/1/try/Registers/IF_IDReg.v
+Z19 FD:/term 7/Archi Lab/1/try/Registers/IF_IDReg.v
+L0 3
+R2
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|-vopt|D:/term 7/Archi Lab/1/try/Registers/IF_IDReg.v|
+R3
+Z21 n@i@f_@i@d@reg
+Z22 !s108 1635740853.932000
+Z23 !s107 D:/term 7/Archi Lab/1/try/Registers/IF_IDReg.v|
+!i10b 1
+!s85 0
+vMEM_WBReg
+Z24 !s100 P?6]2miYU3WUDoLDMn_XN0
+Z25 IiznENdlRWJ2e30Y90P:Lf3
+Z26 VTA[759EYUiXNh82e4n6WR0
+R1
+Z27 w1635740736
+Z28 8D:/term 7/Archi Lab/1/try/Registers/MEM_WBReg.v
+Z29 FD:/term 7/Archi Lab/1/try/Registers/MEM_WBReg.v
+L0 3
+R2
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|-vopt|D:/term 7/Archi Lab/1/try/Registers/MEM_WBReg.v|
+R3
+Z31 n@m@e@m_@w@b@reg
+Z32 !s108 1635740854.051000
+Z33 !s107 D:/term 7/Archi Lab/1/try/Registers/MEM_WBReg.v|
+!i10b 1
+!s85 0

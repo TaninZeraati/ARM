@@ -1,0 +1,29 @@
+{D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux_2in
+
+Top level modules:
+	mux_2in
+
+} {} {}} {D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module IF_Stage_tb
+
+Top level modules:
+	IF_Stage_tb
+
+} {} {}} {D:/term 7/Archi Lab/1/try/IF_Stage/PC.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/IF_Stage/PC.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}}

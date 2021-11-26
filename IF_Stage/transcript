@@ -1,0 +1,520 @@
+# Reading B:/Program Files/modelsim/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile {D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v} 
+# Loading project IF_Stage_tb
+# Compile of IF_Stage_tb.v was successful.
+vsim -gui work.IF_Stagr_tb
+# vsim -gui work.IF_Stagr_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage.v(5): (vopt-2241) Connection width does not match width of port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/Adder.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage.v(6): (vopt-2241) Connection width does not match width of port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/mux_2in.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage.v(7): (vopt-2241) Connection width does not match width of port 'pc'. The port definition is at: D:/term 7/Archi Lab/1/try/PC.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage.v(9): (vopt-2241) Connection width does not match width of port 'address'. The port definition is at: D:/term 7/Archi Lab/1/try/Instruction_set.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage.v(9): (vopt-2241) Connection width does not match width of port 'instructionOut'. The port definition is at: D:/term 7/Archi Lab/1/try/Instruction_set.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage.v(3).
+# 
+# ** Error: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): Port 'pc' not found in module (7th connection).
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui work.IF_Stage_tb
+# vsim -gui work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(5): (vopt-2241) Connection width does not match width of port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(6): (vopt-2241) Connection width does not match width of port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(7): (vopt-2241) Connection width does not match width of port 'pc'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/PC.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): (vopt-2241) Connection width does not match width of port 'address'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): (vopt-2241) Connection width does not match width of port 'instructionOut'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Error: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): Port 'pc' not found in module (7th connection).
+# Optimization failed
+# Error loading design
+vsim -gui -novopt work.IF_Stage_tb
+# vsim -gui -novopt work.IF_Stage_tb 
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage_tb
+# Loading work.IF_Stage_tb
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage
+# Loading work.IF_Stage
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Adder
+# Loading work.Adder
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.mux_2in
+# Loading work.mux_2in
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.PC
+# Loading work.PC
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Instruction_set
+# Loading work.Instruction_set
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Error: (vsim-3063) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): Port 'pc' not found in the connected module (7th connection).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(5): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/ad
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(6): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/mx
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(7): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'pc'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/PC.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/pc0
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'address'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/instset
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'instructionOut'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/instset
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.IF_Stage_tb
+# vsim -gui -novopt work.IF_Stage_tb 
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage_tb
+# Loading work.IF_Stage_tb
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage
+# Loading work.IF_Stage
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Adder
+# Loading work.Adder
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.mux_2in
+# Loading work.mux_2in
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.PC
+# Loading work.PC
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Instruction_set
+# Loading work.Instruction_set
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Error: (vsim-3063) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): Port 'pc' not found in the connected module (7th connection).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(5): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/ad
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(6): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/mx
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(7): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'pc'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/PC.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/pc0
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'address'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/instset
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'instructionOut'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/instset
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.IF_Stage_tb
+# vsim -gui -novopt work.IF_Stage_tb 
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage_tb
+# Loading work.IF_Stage_tb
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage
+# Loading work.IF_Stage
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Adder
+# Loading work.Adder
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Error: (vsim-3063) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): Port 'pc' not found in the connected module (7th connection).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(6): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/ad
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.IF_Stage_tb
+# vsim -gui -novopt work.IF_Stage_tb 
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage_tb
+# Loading work.IF_Stage_tb
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage
+# Loading work.IF_Stage
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Adder
+# Loading work.Adder
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.mux_2in
+# Loading work.mux_2in
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.PC
+# Loading work.PC
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Error: (vsim-3063) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(9): Port 'pc' not found in the connected module (7th connection).
+# 
+#         Region: /IF_Stage_tb/if_stage
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(6): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/ad
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(8): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/mx
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'pc'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/PC.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/pc0
+# Error loading design
+# Compile of IF_Stage_tb.v failed with 1 errors.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -novopt work.IF_Stage_tb
+# vsim -gui -novopt work.IF_Stage_tb 
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage_tb
+# Loading work.IF_Stage_tb
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Adder
+# Loading work.Adder
+# ** Error: (vsim-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(10): Illegal output or inout port connection for "port 'result'".
+# 
+#         Region: /IF_Stage_tb/ad
+# Error loading design
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(10): Illegal output port connection for "'result' (3rd connection)".
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading work.IF_Stage_tb(fast)
+quit -sim
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(6): (vopt-2241) Connection width does not match width of port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(8): (vopt-2241) Connection width does not match width of port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): (vopt-2241) Connection width does not match width of port 'pc'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/PC.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Loading work.IF_Stage_tb(fast)
+quit -sim
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'pc' (5th connection)".
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(11): Illegal output port connection for "'instructionOut' (2nd connection)".
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'pc' (5th connection)".
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage
+# vsim -gui -vopt work.IF_Stage 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'pc' (5th connection)".
+# 
+# Optimization failed
+# Error loading design
+# Load canceled
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(6): (vopt-2241) Connection width does not match width of port 'b'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Adder.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(8): (vopt-2241) Connection width does not match width of port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): (vopt-2241) Connection width does not match width of port 'pc'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/PC.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Loading work.IF_Stage_tb(fast)
+quit -sim
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(8): (vopt-2241) Connection width does not match width of port 'a'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/mux_2in.v(3).
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'pc' (5th connection)".
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'pc' (5th connection)".
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'pc' (5th connection)".
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'PC_if' (5th connection)".
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'freeze'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v(8): (vopt-2241) Connection width does not match width of port 'Branch_taken'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(3).
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: (vopt-3053) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(9): Illegal output port connection for "'PC_if' (5th connection)".
+# 
+# Optimization failed
+# Error loading design
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading work.IF_Stage_tb(fast)
+quit -sim
+# Compile of IF_Stage_tb.v was successful.
+# Compile of Adder.v was successful.
+# Compile of IF_Stage.v was successful.
+# Compile of Instruction_set.v was successful.
+# Compile of mux_2in.v was successful.
+# Compile of PC.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui -vopt work.IF_Stage_tb
+# vsim -gui -vopt work.IF_Stage_tb 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Warning: D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(11): (vopt-2241) Connection width does not match width of port 'instructionOut'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+# Loading work.IF_Stage_tb(fast)
+quit -sim
+vsim -gui -novopt work.IF_Stage_tb
+# vsim -gui -novopt work.IF_Stage_tb 
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage_tb
+# Loading work.IF_Stage_tb
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.IF_Stage
+# Loading work.IF_Stage
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Adder
+# Loading work.Adder
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.mux_2in
+# Loading work.mux_2in
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.PC
+# Loading work.PC
+# Refreshing D:/term 7/Archi Lab/1/try/IF_Stage/work.Instruction_set
+# Loading work.Instruction_set
+# ** Warning: (vsim-3015) D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage.v(11): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'instructionOut'. The port definition is at: D:/term 7/Archi Lab/1/try/IF_Stage/Instruction_set.v(3).
+# 
+#         Region: /IF_Stage_tb/if_stage/instset
+add wave -position end  sim:/IF_Stage_tb/clk
+add wave -position end  sim:/IF_Stage_tb/rst
+add wave -position end  sim:/IF_Stage_tb/pc
+add wave -position end  sim:/IF_Stage_tb/instruction
+run -all
+# Break in Module IF_Stage_tb at D:/term 7/Archi Lab/1/try/IF_Stage/IF_Stage_tb.v line 14
+quit -sim

@@ -1,0 +1,29 @@
+{D:/term 7/Archi Lab/1/try/Registers/ID_EXEReg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/Registers/ID_EXEReg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ID_EXEReg
+
+Top level modules:
+	ID_EXEReg
+
+} {} {}} {D:/term 7/Archi Lab/1/try/Registers/IF_IDReg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/Registers/IF_IDReg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module IF_IDReg
+
+Top level modules:
+	IF_IDReg
+
+} {} {}} {D:/term 7/Archi Lab/1/try/Registers/MEM_WBReg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/Registers/MEM_WBReg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module MEM_WBReg
+
+Top level modules:
+	MEM_WBReg
+
+} {} {}} {D:/term 7/Archi Lab/1/try/Registers/EXE_MEMReg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/1/try/Registers/EXE_MEMReg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module EXE_MEMReg
+
+Top level modules:
+	EXE_MEMReg
+
+} {} {}}
