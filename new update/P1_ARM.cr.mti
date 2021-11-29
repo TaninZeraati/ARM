@@ -1,0 +1,161 @@
+D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/RegisterFile.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ARM.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ARM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ARM
+
+Top level modules:
+	ARM
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ControlUnit.v {2 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ControlUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ControlUnit
+** Warning: D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ControlUnit.v(31): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ControlUnit.v(33): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ControlUnit
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/HazardDetectionUnit.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/HazardDetectionUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Mux.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ALU.v {2 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+** Warning: D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ALU.v(7): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ALU
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/EXE_Stage_Reg.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/EXE_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXE_Stage_Reg
+
+Top level modules:
+	EXE_Stage_Reg
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/WB_Stage.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/WB_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WB_Stage
+
+Top level modules:
+	WB_Stage
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Val2Generator.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Val2Generator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Val2Generator
+
+Top level modules:
+	Val2Generator
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ConditionCheck.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ConditionCheck.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ConditionCheck
+
+Top level modules:
+	ConditionCheck
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/EXE_Stage.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/EXE_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXE_Stage
+
+Top level modules:
+	EXE_Stage
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ID_Stage_Reg.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ID_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_Stage_Reg
+
+Top level modules:
+	ID_Stage_Reg
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/TB.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/MEM_Stage_Reg.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/MEM_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_Stage_Reg
+
+Top level modules:
+	MEM_Stage_Reg
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/IF_Stage_Reg.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/IF_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_Stage_Reg
+
+Top level modules:
+	IF_Stage_Reg
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/PC_Handler.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/PC_Handler.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_Handler
+
+Top level modules:
+	PC_Handler
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Adder.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Data_Mem.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Data_Mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Data_Mem
+
+Top level modules:
+	Data_Mem
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ID_Stage.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/ID_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_Stage
+
+Top level modules:
+	ID_Stage
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/StatusRegister.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/StatusRegister.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module StatusRegister
+
+Top level modules:
+	StatusRegister
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Instruction_Memory.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/Instruction_Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/MEM_Stage.v {1 {vlog -work work D:/Universiti/_TANIN/CALAB_P1_810197657_810197633/MEM_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_Stage
+
+Top level modules:
+	MEM_Stage
+
+} {} {}}
