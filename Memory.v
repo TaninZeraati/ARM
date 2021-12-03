@@ -11,3 +11,4 @@ module Memory(input clk,rst,MEMread,MEMwrite,
         .MEMresult(MEMresult));
   
 endmodule
+

@@ -1,0 +1,168 @@
+{D:/term 7/Archi Lab/final/MEM_reg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/MEM_reg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module MEM_reg
+
+Top level modules:
+	MEM_reg
+
+} {} {}} {D:/term 7/Archi Lab/final/RegisterFile.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/RegisterFile.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {D:/term 7/Archi Lab/final/EXE_Stage.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/EXE_Stage.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module EXE_Stage
+
+Top level modules:
+	EXE_Stage
+
+} {} {}} {D:/term 7/Archi Lab/final/Adder.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/Adder.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {D:/term 7/Archi Lab/final/WB_Stage.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/WB_Stage.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module WB_Stage
+
+Top level modules:
+	WB_Stage
+
+} {} {}} {D:/term 7/Archi Lab/final/Shifter.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/Shifter.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} {D:/term 7/Archi Lab/final/ID_Stage_Reg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/ID_Stage_Reg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ID_Stage_Reg
+
+Top level modules:
+	ID_Stage_Reg
+
+} {} {}} {D:/term 7/Archi Lab/final/ConditionCheck.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/ConditionCheck.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ConditionCheck
+
+Top level modules:
+	ConditionCheck
+
+} {} {}} {D:/term 7/Archi Lab/final/TB.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/TB.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {D:/term 7/Archi Lab/final/IF_Stage_Reg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/IF_Stage_Reg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module IF_Stage_Reg
+
+Top level modules:
+	IF_Stage_Reg
+
+} {} {}} {D:/term 7/Archi Lab/final/PC_Handler.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/PC_Handler.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module PC_Handler
+
+Top level modules:
+	PC_Handler
+
+} {} {}} {D:/term 7/Archi Lab/final/ID_Stage.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/ID_Stage.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ID_Stage
+
+Top level modules:
+	ID_Stage
+
+} {} {}} {D:/term 7/Archi Lab/final/ARM.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/ARM.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ARM
+
+Top level modules:
+	ARM
+
+} {} {}} {D:/term 7/Archi Lab/final/StatusRegister.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/StatusRegister.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module StatusRegister
+
+Top level modules:
+	StatusRegister
+
+} {} {}} {D:/term 7/Archi Lab/final/Memory.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/Memory.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {D:/term 7/Archi Lab/final/HazardDetectionUnit.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/HazardDetectionUnit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} {D:/term 7/Archi Lab/final/ControlUnit.v} {2 {vlog -work work -vopt {D:/term 7/Archi Lab/final/ControlUnit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ControlUnit
+** Warning: D:/term 7/Archi Lab/final/ControlUnit.v(111): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/term 7/Archi Lab/final/ControlUnit.v(120): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {D:/term 7/Archi Lab/final/ALU.v} {2 {vlog -work work -vopt {D:/term 7/Archi Lab/final/ALU.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+** Warning: D:/term 7/Archi Lab/final/ALU.v(7): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/term 7/Archi Lab/final/Mux.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/Mux.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} {D:/term 7/Archi Lab/final/Instruction_Memory.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/Instruction_Memory.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} {D:/term 7/Archi Lab/final/IF_Stage.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/IF_Stage.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module IF_Stage
+
+Top level modules:
+	IF_Stage
+
+} {} {}} {D:/term 7/Archi Lab/final/EXE_Stage_Reg.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/EXE_Stage_Reg.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module EXE_Stage_Reg
+
+Top level modules:
+	EXE_Stage_Reg
+
+} {} {}} {D:/term 7/Archi Lab/final/Data_Memory.v} {1 {vlog -work work -vopt {D:/term 7/Archi Lab/final/Data_Memory.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}}

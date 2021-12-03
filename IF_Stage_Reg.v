@@ -19,3 +19,4 @@ module IF_Stage_Reg(input clk,rst,freeze,flush,
     end
   end
 endmodule
+

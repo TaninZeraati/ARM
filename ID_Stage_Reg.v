@@ -51,3 +51,4 @@ module ID_Stage_Reg(input clk,rst,flush,
     end
   end
 endmodule
+

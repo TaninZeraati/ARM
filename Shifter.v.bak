@@ -1,0 +1,29 @@
+module Shifter(input [31:0] Val_Rm,
+               input [11:0] Shift_operand,
+               input immadate,mem_inst,
+               output reg [31:0] shif_output);
+      
+  reg [4:0] rotate_imm;
+  reg [39:0] immed,_val;
+  reg [63:0] __val;
+  
+  always@(*)begin
+    if(mem_inst)
+      shif_output={{20{Shift_operand[11]}},Shift_operand};
+    else if(immadate) begin
+      rotate_imm={Shift_operand[11:8],1'b0};
+      _val = {Shift_operand[7:0],24'b000000000000000000000000,Shift_operand[7:0]}>>rotate_imm;
+      shif_output=_val[31:0];
+    end
+    else if(Shift_operand[4]==0) begin
+      if(Shift_operand[6:5]==2'b00) shif_output=Val_Rm<<Shift_operand[11:7];
+      if(Shift_operand[6:5]==2'b01) shif_output=Val_Rm>>Shift_operand[11:7];
+      if(Shift_operand[6:5]==2'b10) shif_output=Val_Rm>>>Shift_operand[11:7];
+      if(Shift_operand[6:5]==2'b11) begin
+        __val={Val_Rm,Val_Rm}>>Shift_operand[11:7];
+        shif_output=__val[31:0];
+      end
+    end
+  end 
+endmodule
+

@@ -1,0 +1,40 @@
+module ALU(input [31:0] Al,m2,input [3:0] exe_cmd_in,input c, output reg [31:0] output_alu, output [3:0] SR);
+  
+  reg C,V;
+  wire N,Z;
+  
+  always@(*)begin
+    if(exe_cmd_in==3'b0001)  //MOV
+      output_alu=m2;
+    else if(exe_cmd_in==4'b1001) //MOVN
+      output_alu=~m2;
+    else if(exe_cmd_in==4'b0010) begin //ADD,LDR,STR
+      {C,output_alu}=Al+m2; 
+      V=(Al[31]==m2[31])&(Al[31]!=output_alu[31]);
+    end
+    else if(exe_cmd_in==4'b0011) begin //ADC
+      {C,output_alu}=Al+m2+{31'b0,c};
+      V=(Al[31]==m2[31]);
+    end
+    else if(exe_cmd_in==4'b0100) begin //SUB,CMP
+      {C,output_alu}=Al-m2;
+      V=(Al[31]!=m2[31])&(Al[31]!=output_alu[31]);
+    end
+    else if(exe_cmd_in==4'b0101) begin //SBC
+      {C,output_alu}=Al-m2-{31'b0,~c};
+      V=(Al[31]==m2[31])&(Al[31]!=output_alu[31]);
+    end
+    else if(exe_cmd_in==4'b0110) //AND,TST
+      output_alu=Al&m2;
+    else if(exe_cmd_in==4'b0111) //ORR
+      output_alu=Al|m2;
+    else if(exe_cmd_in==4'b1000) //EOR
+      output_alu=Al^m2;
+  end
+  
+  assign N=output_alu[31];  //N
+  assign Z=(output_alu==32'b0); //Z
+  assign SR={N,Z,C,V};
+  
+endmodule
+

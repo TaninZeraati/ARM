@@ -20,3 +20,4 @@ module PC_Handler(input clk,rst,freeze,Branch_taken,
   
   assign buffered_pc=pc;
 endmodule
+

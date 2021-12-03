@@ -17,17 +17,17 @@ module EXE_Stage(input clk,
   
   or _or(memory_type_instruction,MEM_R_EN,MEM_W_EN);
   
-  ALU alu(.Al(Val_Rn),
-        .m2(alu_b),
-        .exe_cmd_in(EXE_CMD),
+  ALU alu(.a(Val_Rn),
+        .b(alu_b),
+        .EXE_CMD(EXE_CMD),
         .c(SR[1]),
-        .res(ALU_result),
+        .result(ALU_result),
         .SR(status));
   Shifter shifter(.Val_Rm(Val_Rm),
-        .operand_of_shift(Shift_operand),
-        .immediate(imm),
-        .mem_type(memory_type_instruction),
-        .second_value(alu_b));
+        .Shift_operand(Shift_operand),
+        .imm(imm),
+        .memory_type_instruction(memory_type_instruction),
+        .alu_b(alu_b));
   Adder #(32) adder(.a(PC),
         .b(branch_immediate),
         .result(Br_addr));

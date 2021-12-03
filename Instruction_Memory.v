@@ -11,3 +11,4 @@ module Instruction_Memory(input rst, input[31:0] pc, output[31:0] instruction);
   
   assign instruction={instructions[pc],instructions[pc+1],instructions[pc+2],instructions[pc+3]};
 endmodule
+

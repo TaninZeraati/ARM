@@ -14,3 +14,4 @@ module MEM_reg(input clk,rst,WB_en_in,MEM_R_en_in,
     Mem_read_value<=Mem_read_value_in;
   end
 endmodule
+

@@ -1,8 +1,10 @@
 module TB();
   
   reg clk,rst;
-  wire [31:0] IFpc;
-  ARM cut(clk,rst,IFpc);
+  wire [31:0] IF_Stage_pc;
+  ARM cut(.clk(clk),
+        .rst(rst),
+        .IF_Stage_pc(IF_Stage_pc));
   
   initial begin
     #10 clk=1; rst=1;

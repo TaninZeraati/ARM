@@ -25,3 +25,4 @@ module Data_Memory(input clk,rst,MEMread,MEMwrite,
   
   assign MEMresult={memory[addr],memory[addr+1],memory[addr+2],memory[addr+3]};
 endmodule
+
