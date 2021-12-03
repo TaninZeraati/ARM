@@ -7,7 +7,7 @@ entity IF_Stage is
         freeze          : in     vl_logic;
         Branch_taken    : in     vl_logic;
         BranchAddr      : in     vl_logic_vector(31 downto 0);
-        PC_if           : out    vl_logic_vector(31 downto 0);
+        PC              : out    vl_logic_vector(31 downto 0);
         Instruction     : out    vl_logic_vector(31 downto 0)
     );
 end IF_Stage;

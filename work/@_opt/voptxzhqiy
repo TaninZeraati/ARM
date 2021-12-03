@@ -1,0 +1,449 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\term 7\Archi Lab\help
+T_opt
+VEG]FH8[el?d^k=cES=INe0
+04 2 4 work TB fast 0
+=2-68ecc54e9206-61aa2dd8-fa-4c4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+vAdder
+IlagD_PVzO08g]4PQbAzcf3
+V?KmIm3l@^AED:ohGjg2Gi2
+Z1 dD:\term 7\Archi Lab\help
+w1638373018
+8D:/term 7/Archi Lab/help/Adder.v
+FD:/term 7/Archi Lab/help/Adder.v
+L0 1
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@adder
+!s100 AW19PX4[D`TH>T`B:bgc81
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/Adder.v|
+!s108 1638542799.122000
+!s107 D:/term 7/Archi Lab/help/Adder.v|
+!i10b 1
+!s85 0
+vALU
+IUJ3K?<iFiRKL?emJUZm4W3
+VX4h=IVaN_OUPo7DiE`1`n2
+R1
+w1638541658
+8D:/term 7/Archi Lab/help/ALU.v
+FD:/term 7/Archi Lab/help/ALU.v
+L0 1
+R2
+r1
+31
+R3
+n@a@l@u
+!s100 `6207I82@A4[[Pn?VRd_a1
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/ALU.v|
+!s108 1638542799.242000
+!s107 D:/term 7/Archi Lab/help/ALU.v|
+!i10b 1
+!s85 0
+vARM
+IZMW2B]>^73XEBMLcAGB0m0
+V>48]_`ZPiGK@?3C:RZ[F90
+R1
+w1638476568
+8D:/term 7/Archi Lab/help/ARM.v
+FD:/term 7/Archi Lab/help/ARM.v
+L0 1
+R2
+r1
+31
+R3
+n@a@r@m
+!s100 >OC6m^SZHE72S7bDnlnIC3
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/ARM.v|
+!s108 1638542799.345000
+!s107 D:/term 7/Archi Lab/help/ARM.v|
+!i10b 1
+!s85 0
+vConditionCheck
+I>@2fOabfEI]CgN]JYX68o2
+V=:N5aEZ04d428<0i395jo2
+R1
+w1638375806
+8D:/term 7/Archi Lab/help/ConditionCheck.v
+FD:/term 7/Archi Lab/help/ConditionCheck.v
+L0 1
+R2
+r1
+31
+R3
+n@condition@check
+!s100 e1ogUFf:95Yc40>GTGcla2
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/ConditionCheck.v|
+!s108 1638542799.446000
+!s107 D:/term 7/Archi Lab/help/ConditionCheck.v|
+!i10b 1
+!s85 0
+vControlUnit
+IZP@5mHka5^8@2aj3WScZ@3
+V2Uk9c7d49ni?M]BIo00Yn2
+R1
+w1638542751
+8D:/term 7/Archi Lab/help/ControlUnit.v
+FD:/term 7/Archi Lab/help/ControlUnit.v
+L0 1
+R2
+r1
+31
+R3
+n@control@unit
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/ControlUnit.v|
+!s100 m0jc2Cj9Z<BacCgbIa7PP1
+!s108 1638542799.546000
+!s107 D:/term 7/Archi Lab/help/ControlUnit.v|
+!i10b 1
+!s85 0
+vData_Memory
+I9TKXmo6<OYRnlNkNn1nH83
+V5bgjI:hn4Q0=`hV3j[HeI1
+R1
+w1638476792
+8D:/term 7/Archi Lab/help/Data_Memory.v
+FD:/term 7/Archi Lab/help/Data_Memory.v
+L0 1
+R2
+r1
+31
+R3
+n@data_@memory
+!s100 5WOPi_z[6Zdn3Mjz;C]L[0
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/Data_Memory.v|
+!s108 1638542799.648000
+!s107 D:/term 7/Archi Lab/help/Data_Memory.v|
+!i10b 1
+!s85 0
+vEXE_Stage
+I=h11V<;ZA<iQSMREmQP3C1
+VIzaLmj7UQnnZ?MGUQ_lII2
+R1
+w1638541985
+8D:/term 7/Archi Lab/help/EXE_Stage.v
+FD:/term 7/Archi Lab/help/EXE_Stage.v
+L0 1
+R2
+r1
+31
+R3
+n@e@x@e_@stage
+!s100 I0VkW]FDWIIT]i:K8nWi>0
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/EXE_Stage.v|
+!s108 1638542799.738000
+!s107 D:/term 7/Archi Lab/help/EXE_Stage.v|
+!i10b 1
+!s85 0
+vEXE_Stage_Reg
+I56Lg:9LR<`DL2CbUn_9WT3
+VTOjBm_3U;WYzc=COIDk^a1
+R1
+w1638383972
+8D:/term 7/Archi Lab/help/EXE_Stage_Reg.v
+FD:/term 7/Archi Lab/help/EXE_Stage_Reg.v
+L0 1
+R2
+r1
+31
+R3
+n@e@x@e_@stage_@reg
+!s100 fJD2<Z>j[UiW5GH^CFdkG3
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/EXE_Stage_Reg.v|
+!s108 1638542799.837000
+!s107 D:/term 7/Archi Lab/help/EXE_Stage_Reg.v|
+!i10b 1
+!s85 0
+vHazardDetectionUnit
+I3ZB^e7WlkBeHWOFhzld]@0
+ViH3i4MGU8WclTOZIfT`QF3
+R1
+w1638473284
+8D:/term 7/Archi Lab/help/HazardDetectionUnit.v
+FD:/term 7/Archi Lab/help/HazardDetectionUnit.v
+L0 1
+R2
+r1
+31
+R3
+n@hazard@detection@unit
+!s100 XIghUWnK@KP6_]zB542>d1
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/HazardDetectionUnit.v|
+!s108 1638542799.942000
+!s107 D:/term 7/Archi Lab/help/HazardDetectionUnit.v|
+!i10b 1
+!s85 0
+vID_Stage
+ImIOXzK;R@mcFB6UKo3^l[0
+VaF<YWS3IPn0J;z^J`31>=0
+R1
+w1638542789
+8D:/term 7/Archi Lab/help/ID_Stage.v
+FD:/term 7/Archi Lab/help/ID_Stage.v
+L0 1
+R2
+r1
+31
+R3
+n@i@d_@stage
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/ID_Stage.v|
+!s100 g;XRDcSd_ml0ZFHX^L3TV2
+!s108 1638542800.065000
+!s107 D:/term 7/Archi Lab/help/ID_Stage.v|
+!i10b 1
+!s85 0
+vID_Stage_Reg
+IVKW>VEbEV?@QBdfNL=FFU1
+Vz;?:b??]CiPDSL7]CZ@g[2
+R1
+w1638373258
+8D:/term 7/Archi Lab/help/ID_Stage_Reg.v
+FD:/term 7/Archi Lab/help/ID_Stage_Reg.v
+L0 1
+R2
+r1
+31
+R3
+n@i@d_@stage_@reg
+!s100 P==TRSmo]1lz=:XA^^dc`1
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/ID_Stage_Reg.v|
+!s108 1638542800.162000
+!s107 D:/term 7/Archi Lab/help/ID_Stage_Reg.v|
+!i10b 1
+!s85 0
+vIF_Stage
+IC9:cU7;?9D?Vgc2_YD77c1
+V@;EAl>bPJPEEYb<BIidE80
+R1
+w1638470960
+8D:/term 7/Archi Lab/help/IF_Stage.v
+FD:/term 7/Archi Lab/help/IF_Stage.v
+L0 1
+R2
+r1
+31
+R3
+n@i@f_@stage
+!s100 HnaT0JQ>dY[MJZYe6lU`k3
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/IF_Stage.v|
+!s108 1638542800.263000
+!s107 D:/term 7/Archi Lab/help/IF_Stage.v|
+!i10b 1
+!s85 0
+vIF_Stage_Reg
+Ik4dl>951FJWSWdP035omK0
+VT<83U3PaMTOEUg=lKR6@i1
+R1
+w1624089778
+8D:/term 7/Archi Lab/help/IF_Stage_Reg.v
+FD:/term 7/Archi Lab/help/IF_Stage_Reg.v
+L0 1
+R2
+r1
+31
+R3
+n@i@f_@stage_@reg
+!s100 J4eC@l5mdFX?3oYbl0ZD?2
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/IF_Stage_Reg.v|
+!s108 1638542800.396000
+!s107 D:/term 7/Archi Lab/help/IF_Stage_Reg.v|
+!i10b 1
+!s85 0
+vInstruction_Memory
+I`;T1__h=C>:OiH1O05YH;0
+V7TD77kU=gfKVLA2>ZDK^<3
+R1
+w1638120572
+8D:/term 7/Archi Lab/help/Instruction_Memory.v
+FD:/term 7/Archi Lab/help/Instruction_Memory.v
+L0 1
+R2
+r1
+31
+R3
+n@instruction_@memory
+!s100 `A2S_7AHfQ99o`BaHWMco0
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/Instruction_Memory.v|
+!s108 1638542800.530000
+!s107 D:/term 7/Archi Lab/help/Instruction_Memory.v|
+!i10b 1
+!s85 0
+vMEM_reg
+II:60kJjS2K[a1n?DFiIkC2
+V1H<3MB8UDGhdLT]E:o[?=0
+R1
+w1638475972
+8D:/term 7/Archi Lab/help/MEM_reg.v
+FD:/term 7/Archi Lab/help/MEM_reg.v
+L0 1
+R2
+r1
+31
+R3
+n@m@e@m_reg
+!s100 PMJ^kmd@C4Z=OEGh[8GXa3
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/MEM_reg.v|
+!s108 1638542800.656000
+!s107 D:/term 7/Archi Lab/help/MEM_reg.v|
+!i10b 1
+!s85 0
+vMemory
+IFOIDFB7T9>@BH9h]okYWl1
+Vm?O;8Zl^em<8YO>QB[j760
+R1
+w1638471308
+8D:/term 7/Archi Lab/help/Memory.v
+FD:/term 7/Archi Lab/help/Memory.v
+L0 1
+R2
+r1
+31
+R3
+n@memory
+!s100 ><5^aFJ=kmanMlb:b7aDK2
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/Memory.v|
+!s108 1638542800.801000
+!s107 D:/term 7/Archi Lab/help/Memory.v|
+!i10b 1
+!s85 0
+vMux
+I^n?XQzU:n[o[ELk2REaNE3
+V1c<OPFA>TGFF;eGG8EWih0
+R1
+w1638383746
+8D:/term 7/Archi Lab/help/Mux.v
+FD:/term 7/Archi Lab/help/Mux.v
+L0 1
+R2
+r1
+31
+R3
+n@mux
+!s100 oa>Ve>h@L4:8c6U28L<3R3
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/Mux.v|
+!s108 1638542800.919000
+!s107 D:/term 7/Archi Lab/help/Mux.v|
+!i10b 1
+!s85 0
+vPC_Handler
+IGB6oDJF[jB6S0WokJbRMi3
+VMF6<_nPT7GZFJ4KmoTjFe2
+R1
+w1638469644
+8D:/term 7/Archi Lab/help/PC_Handler.v
+FD:/term 7/Archi Lab/help/PC_Handler.v
+L0 1
+R2
+r1
+31
+R3
+n@p@c_@handler
+!s100 <HUA:hjM`IUTiU:Q=JC0O1
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/PC_Handler.v|
+!s108 1638542801.053000
+!s107 D:/term 7/Archi Lab/help/PC_Handler.v|
+!i10b 1
+!s85 0
+vRegisterFile
+I:2bQbOYJc>8Chdg6LQF021
+VG>h4WmJh5Z[6GD=[VF2z;0
+R1
+w1638469704
+8D:/term 7/Archi Lab/help/RegisterFile.v
+FD:/term 7/Archi Lab/help/RegisterFile.v
+L0 1
+R2
+r1
+31
+R3
+n@register@file
+!s100 V;M]H5Qg0?KW6fZQkJSTj2
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/RegisterFile.v|
+!s108 1638542801.164000
+!s107 D:/term 7/Archi Lab/help/RegisterFile.v|
+!i10b 1
+!s85 0
+vShifter
+Ig8b<]TzSIo17AWl]b[6e72
+VQiohd:3l;kiMo98IH:[Dj0
+R1
+w1638542099
+8D:/term 7/Archi Lab/help/Shifter.v
+FD:/term 7/Archi Lab/help/Shifter.v
+L0 1
+R2
+r1
+31
+R3
+n@shifter
+!s100 K25Zgh=7[C=91ibVTSmIz3
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/Shifter.v|
+!s108 1638542801.267000
+!s107 D:/term 7/Archi Lab/help/Shifter.v|
+!i10b 1
+!s85 0
+vStatusRegister
+I_77:d:C5RoTz^>lE?j:i=1
+VNVhX;[9]2No7SFb@8M78k1
+R1
+w1638418742
+8D:/term 7/Archi Lab/help/StatusRegister.v
+FD:/term 7/Archi Lab/help/StatusRegister.v
+L0 1
+R2
+r1
+31
+R3
+n@status@register
+!s100 5BWJ]@8QdOh`iD6V3V5I91
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/StatusRegister.v|
+!s108 1638542801.376000
+!s107 D:/term 7/Archi Lab/help/StatusRegister.v|
+!i10b 1
+!s85 0
+vTB
+I?9lhPfSVom03RBYJSG2F@2
+Vc<=32996OT2f`M7E_UhYX1
+R1
+w1621482684
+8D:/term 7/Archi Lab/help/TB.v
+FD:/term 7/Archi Lab/help/TB.v
+L0 1
+R2
+r1
+31
+R3
+n@t@b
+!s100 g?W2>9`k9^O>fPOW_Y=FC0
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/TB.v|
+!s108 1638542801.508000
+!s107 D:/term 7/Archi Lab/help/TB.v|
+!i10b 1
+!s85 0
+vWB_Stage
+I1DcXO<;Mm@X]K]Vm2Z7a[1
+V^7fQiejccI9dL`e2[]2cW2
+R1
+w1638470202
+8D:/term 7/Archi Lab/help/WB_Stage.v
+FD:/term 7/Archi Lab/help/WB_Stage.v
+L0 1
+R2
+r1
+31
+R3
+n@w@b_@stage
+!s100 `GCCgLZOSB9SK<?fe=fnJ0
+!s90 -reportprogress|300|-work|work|D:/term 7/Archi Lab/help/WB_Stage.v|
+!i10b 1
+!s85 0
+!s108 1638542801.629000
+!s107 D:/term 7/Archi Lab/help/WB_Stage.v|

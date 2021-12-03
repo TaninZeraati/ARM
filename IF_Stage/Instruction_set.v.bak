@@ -1,8 +1,0 @@
-`timescale 1ns/1ns
-
-module Instrcution_set (input[31 :0] address ,output [31 :0] instructionOut);
-  reg [7 :0] instruction[0 : 4000];
-  initial begin $readmemb("instructions.txt", instruction); end
-  assign instructionOut = {instruction[address:0] ,instruction[address + 1:address] ,instruction[address + 2:address + 1] ,instruction[address + 3:address + 2]};
-endmodule
-
